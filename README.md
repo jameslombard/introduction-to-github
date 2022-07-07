@@ -85,7 +85,7 @@ On additional branches, you can make edits without impacting the `main` version.
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Commit a file</h2></summary>
 
 _You created a branch! :tada:_
@@ -167,7 +167,7 @@ You may have noticed after your commit that a message displayed indicating your 
   if users accidentally closed without merging.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Nicely done friend! :sunglasses:_
